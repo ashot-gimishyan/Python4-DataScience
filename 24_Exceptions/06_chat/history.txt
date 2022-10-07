@@ -1,3 +1,4 @@
-Макс: Привет:)
-Елена: Привет...
-Макс: Как дела?
+A: Hello
+B: Hello A
+A: How are you B?
+B: I am fine!
